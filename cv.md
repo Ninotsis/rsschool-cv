@@ -30,3 +30,23 @@ Hi, my name is Nino Tsiskarauli, I live in Georgia, Tbilisi, 25 years old. I bec
 - Editors: VSCode, Atom.
 
 ---
+
+### Code Example
+
+```javascript
+   /* program to generate a multiplication table
+upto a range */
+
+const number = parseInt(prompt('Enter an integer: '));
+
+const range = parseInt(prompt('Enter a range: '));
+
+for(let i = 1; i <= range; i++) {
+    const result = i * number;
+    console.log(`${number} * ${i} = ${result}`);
+}
+```
+
+### Education
+---
+- JavaScript Algorithms and Data Structures Certification
