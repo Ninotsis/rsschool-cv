@@ -50,3 +50,14 @@ for(let i = 1; i <= range; i++) {
 ### Education
 ---
 - JavaScript Algorithms and Data Structures Certification
+
+---
+### Experience 
+* Small Applications
+---
+
+### Languages
+---
+- Georgian - native
+- English - B2
+- Russian - A2
