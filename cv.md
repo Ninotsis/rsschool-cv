@@ -11,3 +11,22 @@
 - GitHub:  <a href="https://github.com/Ninotsis">Ninotsis</a>
 
 ---
+
+## Summary
+
+Hi, my name is Nino Tsiskarauli, I live in Georgia, Tbilisi, 25 years old. I became interested in learning web programming lately and started searching learning resources/cources myself. It is a new challenge for me and I realize that some difficulities may appear. But I consider programming is interesting and can solve almost every task/problem automatically. I would like to add that I like beeing in a team, working with them and gain experence.
+
+## Skills
+
+---
+
+- Html5
+- CSS
+- JQuery
+- Bootstrap
+- Javascript
+- Angular Basic
+- Git Version Control
+- Editors: VSCode, Atom.
+
+---
